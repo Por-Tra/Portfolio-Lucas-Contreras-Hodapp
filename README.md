@@ -6,7 +6,7 @@
 ## SAE 1.1 – Visualisation de données scientifiques
 ### Objectif : Concevoir une application permettant de visualiser des séries statistiques (type CSV) à l’aide de graphes dynamiques (points, courbes) et d’une droite de régression.
 
-Technologies : Python, bibliothèque graphique (Tkinter/PyQt), manipulation de fichiers, algèbre linéaire
+Technologies : C++, bibliothèque Libgraph2, manipulation de fichiers, algèbre linéaire
 
 Fonctionnalités :
 
@@ -37,7 +37,7 @@ Architecture modulaire (fichiers .tmx, gestion d’événements, etc.)
 ## Générateur d’ASCII Art 
 ### Objectif : Développer un programme capable de transformer une image en représentation ASCII (caractères texte), tout en respectant les contrastes et formes originales.
 
-Technologies : Python, PIL (Pillow), traitement d’image
+Technologies :C++, traitement d’image, lecture et écriture de fichier
 
 Fonctionnalités :
 
