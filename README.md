@@ -34,7 +34,7 @@ Design graphique avec sprites personnalisés
 
 Architecture modulaire (fichiers .tmx, gestion d’événements, etc.)
 
-## Générateur d’ASCII Art – Projet personnel
+## Générateur d’ASCII Art 
 # Objectif : Développer un programme capable de transformer une image en représentation ASCII (caractères texte), tout en respectant les contrastes et formes originales.
 
 Technologies : Python, PIL (Pillow), traitement d’image

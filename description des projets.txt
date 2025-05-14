@@ -1,0 +1,96 @@
+>> Jeu vidéo RPG 2D - projet NSI
+ Contexte et sujet :
+Projet réalisé dans le cadre de la spécialité NSI (Numérique et Sciences Informatiques) au lycée, en binôme. L’objectif était de concevoir un jeu de rôle (RPG) en 2D à l’aide de la bibliothèque Pygame et de cartes créées avec Tiled Map Editor.
+
+ Missions :
+	Créer une boucle de jeu interactive
+	Développer un système de déplacement du joueur sur plusieurs cartes
+	Implémenter des dialogues avec des PNJ et un système de quêtes
+	Intégrer des sprites et animations
+
+ Étapes détaillées :
+1.	Structuration du projet en modules Python (joueur, animation, dialogue, cartes…)
+2.	Conception et intégration des cartes au format .tmx avec Tiled
+3.	Développement des interactions joueur-PNJ via des boîtes de dialogue
+4.	Optimisation du rendu graphique (sprites, collisions, animations)
+
+ Compétences mobilisées :
+	Techniques : Programmation Python, utilisation de bibliothèques externes (Pygame), logique événementielle, architecture modulaire
+	Transversales : Travail en binôme, résolution de problèmes, créativité
+	Humaines : Organisation, autonomie, esprit critique
+
+ Ressources et acquis validés :
+	Manipulation d’un moteur de jeu 2D
+	Gestion de ressources graphiques et sonores
+	Structuration et documentation d’un projet Python complexe
+
+=========================================================================================================================================================================================
+=========================================================================================================================================================================================
+
+>> Générateur d'ASCII art
+
+ Contexte et sujet :
+Projet réalisé en première année de BUT Informatique. Il s’agissait de développer un programme C++ capable de convertir des images PGM (Portable GrayMap) en texte ASCII, tout en améliorant progressivement les performances, les options et l’ergonomie.
+
+ Missions :
+	Lire et interpréter un fichier image PGM
+	Mapper les niveaux de gris vers des palettes de caractères ASCII
+	Générer une sortie lisible dans un fichier texte
+	Ajouter des versions supportant différentes palettes, encodages et interfaces
+
+ Étapes détaillées :
+1.	Version 1 : Lecture et test de format d’image PGM
+2.	Version 2 : Affichage de la sortie ASCII dans un fichier
+3.	Version 3 : Utilisation de palettes personnalisées
+4.	Version 4 : Prise en charge de l’encodage UTF-8, robustesse du code, ergonomie CLI
+
+ Compétences mobilisées :
+	Techniques : Programmation C++, gestion de fichiers, manipulation de tableaux, encodage
+	Transversales : Travail en binôme, planification de versions successives, relecture croisée
+	Humaines : Précision, adaptabilité, communication
+
+ Ressources et acquis validés :
+	Maîtrise du langage C++ et des opérations sur les fichiers
+	Capacité à diviser un projet en itérations structurées
+	Application concrète des structures de données vues en cours
+
+=========================================================================================================================================================================================
+=========================================================================================================================================================================================
+
+>> SAE 1.1 - Visualisation de données scientifiques
+
+ Contexte et sujet :
+Projet réalisé en première année de BUT Informatique dans le cadre de la SAE 1.1. L’objectif était de permettre la visualisation de données scientifiques (séries statistiques) via une interface graphique, avec un ensemble de fonctionnalités interactives utiles à l’analyse (droite de tendance, zoom, filtrage…).
+
+ Missions :
+	Concevoir une application permettant d’importer et d’afficher des séries de données numériques
+	Générer automatiquement des graphes (type courbe ou nuage de points)
+	Afficher une droite de régression linéaire (droite de tendance)
+	Permettre le zoom, l’exploration, et d’autres interactions utilisateurs
+	Créer une interface intuitive et fonctionnelle
+
+ Étapes détaillées :
+1.	Étude du besoin : comprendre les attentes liées à l’analyse de données scientifiques
+2.	Définition des formats de données compatibles
+3.	Conception et implémentation de la lecture des fichiers de données
+4.	Création du moteur graphique (affichage des points, tracé des droites)
+5.	Ajout de fonctionnalités interactives : zoom, sélection, menus
+6.	Améliorations visuelles et ergonomie de l’interface
+
+ Compétences mobilisées :
+	Techniques : programmation Python, interface graphique (Tkinter ou PyQt), mathématiques appliquées (régression), gestion de fichiers
+	Transversales : travail en binôme, gestion de projet, documentation du code
+	Humaines : rigueur, communication, organisation, esprit d’analyse
+
+ Ressources et acquis validés :
+	Notions d’algèbre linéaire (régression)
+	Développement d’interfaces utilisateur
+	Structuration d’un projet technique collaboratif
+	Mise en place de fonctionnalités selon une logique utilisateur
+
+
+
+
+
+
+
