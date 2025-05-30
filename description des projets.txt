@@ -57,7 +57,7 @@ Projet réalisé en première année de BUT Informatique. Il s’agissait de dé
 =========================================================================================================================================================================================
 =========================================================================================================================================================================================
 
->> SAE 1.1 - Visualisation de données scientifiques
+>> Visualisation de données scientifiques
 
  Contexte et sujet :
 Projet réalisé en première année de BUT Informatique dans le cadre de la SAE 1.1. L’objectif était de permettre la visualisation de données scientifiques (séries statistiques) via une interface graphique, avec un ensemble de fonctionnalités interactives utiles à l’analyse (droite de tendance, zoom, filtrage…).
