@@ -3,7 +3,7 @@
 # Portfolio – Projets Développement & Informatique
  Bienvenue sur mon espace GitHub ! Vous trouverez ici plusieurs projets réalisés au cours de ma formation en BUT Informatique ainsi que des projets personnels. Voici un aperçu de trois d’entre eux :
 
-## SAE 1.1 – Visualisation de données scientifiques
+## Visualisation de données scientifiques
 ### Objectif : Concevoir une application permettant de visualiser des séries statistiques (type CSV) à l’aide de graphes dynamiques (points, courbes) et d’une droite de régression.
 
 Technologies : C++, bibliothèque Libgraph2, manipulation de fichiers, algèbre linéaire
